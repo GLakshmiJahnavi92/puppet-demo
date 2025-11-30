@@ -1,1 +1,1 @@
-Hello Puppet from bolt!
+Hello Puppet!
