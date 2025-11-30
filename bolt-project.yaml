@@ -1,0 +1,4 @@
+---
+name: puppet_demo
+modules:
+- puppetlabs/chocolatey
